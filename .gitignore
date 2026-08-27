@@ -1,0 +1,10 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scratch / journal / notebooks working dir
+.crush/
+
+# Logs
+*.log
